@@ -1,0 +1,171 @@
+=== Featherweight ===
+                        Results: Logit
+===============================================================
+Model:              Logit            Method:           MLE     
+Dependent Variable: RESULT           Pseudo R-squared: 0.001   
+Date:               2025-07-30 10:29 AIC:              122.1629
+No. Observations:   88               BIC:              127.1176
+Df Model:           1                Log-Likelihood:   -59.081 
+Df Residuals:       86               LL-Null:          -59.143 
+Converged:          1.0000           LLR p-value:      0.72571 
+No. Iterations:     4.0000           Scale:            1.0000  
+---------------------------------------------------------------
+                   Coef.  Std.Err.   z    P>|z|   [0.025 0.975]
+---------------------------------------------------------------
+Intercept          0.4155   0.2180 1.9062 0.0566 -0.0117 0.8428
+PERCENT_REGAIN_STD 0.0768   0.2187 0.3509 0.7256 -0.3520 0.5055
+===============================================================
+
+
+=== Bantamweight ===
+                        Results: Logit
+===============================================================
+Model:              Logit            Method:           MLE     
+Dependent Variable: RESULT           Pseudo R-squared: 0.000   
+Date:               2025-07-30 10:29 AIC:              120.8373
+No. Observations:   85               BIC:              125.7226
+Df Model:           1                Log-Likelihood:   -58.419 
+Df Residuals:       83               LL-Null:          -58.440 
+Converged:          1.0000           LLR p-value:      0.83572 
+No. Iterations:     4.0000           Scale:            1.0000  
+---------------------------------------------------------------
+                   Coef.  Std.Err.   z    P>|z|   [0.025 0.975]
+---------------------------------------------------------------
+Intercept          0.2127   0.2182 0.9746 0.3298 -0.2150 0.6404
+PERCENT_REGAIN_STD 0.0455   0.2196 0.2073 0.8358 -0.3849 0.4759
+===============================================================
+
+
+=== Heavyweight ===
+                        Results: Logit
+===============================================================
+Model:              Logit            Method:           MLE     
+Dependent Variable: RESULT           Pseudo R-squared: 0.250   
+Date:               2025-07-30 10:29 AIC:              20.5553 
+No. Observations:   17               BIC:              22.2217 
+Df Model:           1                Log-Likelihood:   -8.2777 
+Df Residuals:       15               LL-Null:          -11.037 
+Converged:          1.0000           LLR p-value:      0.018810
+No. Iterations:     7.0000           Scale:            1.0000  
+---------------------------------------------------------------
+                   Coef.  Std.Err.   z    P>|z|   [0.025 0.975]
+---------------------------------------------------------------
+Intercept          1.0070   0.7430 1.3553 0.1753 -0.4493 2.4634
+PERCENT_REGAIN_STD 1.6066   0.8972 1.7907 0.0733 -0.1519 3.3651
+===============================================================
+
+
+=== Middleweight ===
+                        Results: Logit
+===============================================================
+Model:              Logit            Method:           MLE     
+Dependent Variable: RESULT           Pseudo R-squared: 0.057   
+Date:               2025-07-30 10:29 AIC:              97.3205 
+No. Observations:   72               BIC:              101.8738
+Df Model:           1                Log-Likelihood:   -46.660 
+Df Residuals:       70               LL-Null:          -49.461 
+Converged:          1.0000           LLR p-value:      0.017940
+No. Iterations:     5.0000           Scale:            1.0000  
+---------------------------------------------------------------
+                   Coef.  Std.Err.   z    P>|z|   [0.025 0.975]
+---------------------------------------------------------------
+Intercept          0.2463   0.2475 0.9950 0.3197 -0.2388 0.7314
+PERCENT_REGAIN_STD 0.6016   0.2696 2.2312 0.0257  0.0731 1.1301
+===============================================================
+
+
+=== Strawweight ===
+                        Results: Logit
+===============================================================
+Model:               Logit            Method:           MLE    
+Dependent Variable:  RESULT           Pseudo R-squared: 0.002  
+Date:                2025-07-30 10:29 AIC:              66.2260
+No. Observations:    46               BIC:              69.8833
+Df Model:            1                Log-Likelihood:   -31.113
+Df Residuals:        44               LL-Null:          -31.186
+Converged:           1.0000           LLR p-value:      0.70322
+No. Iterations:      4.0000           Scale:            1.0000 
+---------------------------------------------------------------
+                   Coef.  Std.Err.   z    P>|z|   [0.025 0.975]
+---------------------------------------------------------------
+Intercept          0.3526   0.3000 1.1755 0.2398 -0.2353 0.9406
+PERCENT_REGAIN_STD 0.1163   0.3068 0.3790 0.7047 -0.4851 0.7177
+===============================================================
+
+
+=== Lightweight ===
+                        Results: Logit
+===============================================================
+Model:               Logit            Method:           MLE    
+Dependent Variable:  RESULT           Pseudo R-squared: 0.110  
+Date:                2025-07-30 10:29 AIC:              24.9277
+No. Observations:    17               BIC:              26.5941
+Df Model:            1                Log-Likelihood:   -10.464
+Df Residuals:        15               LL-Null:          -11.754
+Converged:           1.0000           LLR p-value:      0.10819
+No. Iterations:      5.0000           Scale:            1.0000 
+---------------------------------------------------------------
+                   Coef.  Std.Err.   z    P>|z|   [0.025 0.975]
+---------------------------------------------------------------
+Intercept          0.1161   0.5260 0.2207 0.8253 -0.9149 1.1471
+PERCENT_REGAIN_STD 0.8601   0.5730 1.5009 0.1334 -0.2631 1.9832
+===============================================================
+
+
+=== Light Heavyweight ===
+                         Results: Logit
+=================================================================
+Model:               Logit             Method:            MLE    
+Dependent Variable:  RESULT            Pseudo R-squared:  0.004  
+Date:                2025-07-30 10:29  AIC:               52.3190
+No. Observations:    35                BIC:               55.4297
+Df Model:            1                 Log-Likelihood:    -24.159
+Df Residuals:        33                LL-Null:           -24.246
+Converged:           1.0000            LLR p-value:       0.67768
+No. Iterations:      4.0000            Scale:             1.0000 
+-----------------------------------------------------------------
+                    Coef.  Std.Err.    z    P>|z|   [0.025 0.975]
+-----------------------------------------------------------------
+Intercept          -0.0574   0.3390 -0.1694 0.8655 -0.7219 0.6071
+PERCENT_REGAIN_STD  0.1434   0.3468  0.4134 0.6793 -0.5363 0.8230
+=================================================================
+
+
+=== Flyweight ===
+                         Results: Logit
+=================================================================
+Model:               Logit             Method:            MLE    
+Dependent Variable:  RESULT            Pseudo R-squared:  0.005  
+Date:                2025-07-30 10:29  AIC:               66.0699
+No. Observations:    45                BIC:               69.6832
+Df Model:            1                 Log-Likelihood:    -31.035
+Df Residuals:        43                LL-Null:           -31.181
+Converged:           1.0000            LLR p-value:       0.58952
+No. Iterations:      4.0000            Scale:             1.0000 
+-----------------------------------------------------------------
+                    Coef.  Std.Err.    z    P>|z|   [0.025 0.975]
+-----------------------------------------------------------------
+Intercept           0.0446   0.2992  0.1491 0.8814 -0.5418 0.6310
+PERCENT_REGAIN_STD -0.1631   0.3031 -0.5381 0.5905 -0.7572 0.4310
+=================================================================
+
+
+=== Welterweight ===
+                         Results: Logit
+=================================================================
+Model:               Logit             Method:            MLE    
+Dependent Variable:  RESULT            Pseudo R-squared:  0.010  
+Date:                2025-07-30 10:29  AIC:               40.1483
+No. Observations:    27                BIC:               42.7400
+Df Model:            1                 Log-Likelihood:    -18.074
+Df Residuals:        25                LL-Null:           -18.249
+Converged:           1.0000            LLR p-value:       0.55392
+No. Iterations:      4.0000            Scale:             1.0000 
+-----------------------------------------------------------------
+                    Coef.  Std.Err.    z    P>|z|   [0.025 0.975]
+-----------------------------------------------------------------
+Intercept          -0.3782   0.3944 -0.9591 0.3375 -1.1512 0.3947
+PERCENT_REGAIN_STD  0.2353   0.3998  0.5884 0.5562 -0.5483 1.0189
+=================================================================
+
+
